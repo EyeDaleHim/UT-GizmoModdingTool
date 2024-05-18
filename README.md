@@ -6,16 +6,16 @@ Currently the tool is under development and will not be expecting any repository
 
 ## Special Thanks
 
-Funkin' Crew
-Geokureli
-crowplexus
-JoeyBoi
-Shadow Mario
-nebulazorua
-Kade Dev
-Sword352
-Toby Fox
-Temmie Chang
-Undertale Team
-Haxe Developers
-HaxeFlixel maintainers
+- Funkin' Crew
+- Geokureli
+- crowplexus 
+- JoeyBoi 
+- Shadow Mario 
+- nebulazorua 
+- Kade Dev 
+- Sword352 
+- Toby Fox 
+- Temmie Chang 
+- Undertale Team 
+- Haxe Developers 
+- HaxeFlixel maintainers 
